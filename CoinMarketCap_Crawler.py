@@ -101,3 +101,4 @@ df.index.name="    Coin    "
 print(df)
 df.to_html('coinmarketcap.html')
 print("All data has been write to coinmarketcap.html")
+print("-----------------------------------------------------------------------------------------------------------------------------------")
